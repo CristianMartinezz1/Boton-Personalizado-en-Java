@@ -40,3 +40,11 @@ public void setForma(FormaBoton forma)
 public void setColorFondo1(Color c)
 public void setIconoNormal(Icon icono)
 public void setMostrarContorno(boolean mostrar)
+```
+## 🎥 Video explicativo
+
+En este video (duración < 1 min) se muestra:
+
+- Ejemplo de uso dentro de un `JFrame`, con interacción visual al pasar y presionar el botón.
+
+🔗 [Ver video explicativo](https://www.youtube.com/watch?v=9ED_Q6ZCSQE)
