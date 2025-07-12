@@ -41,9 +41,11 @@ public void setColorFondo1(Color c)
 public void setIconoNormal(Icon icono)
 public void setMostrarContorno(boolean mostrar)
 ```
+## 📄 Documentación
 
+Puedes acceder a la documentación generada con Javadoc en GitHub Pages:
 
-
+🔗 [Ver documentación Javadoc](https://cristianmartinezz1.github.io/Boton-Personalizado-en-Java/)
 
 
 ## 🎥 5. Vídeo en YouTube
