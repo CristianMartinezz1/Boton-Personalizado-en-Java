@@ -4,6 +4,12 @@ Este proyecto implementa un componente visual reutilizable en Java: un **botón 
 
 ---
 
+## 👥 Colaboradores
+
+- Cristian Martínez Pacheco – [@CristianMartinezz1](https://github.com/CristianMartinezz1)  
+- Ángel Eduardo Velasco Vásquez
+
+
 ## 🎯 Objetivo
 
 Diseñar e implementar un componente gráfico reutilizable, configurado mediante **propiedades públicas (get/set)** y compatible con el **editor visual de NetBeans**, permitiendo personalización visual inmediata.
